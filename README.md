@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sooyeon</h1>
-<h3 align="center">A passionate back-end developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 📫 How to reach me **sookim2413@gmail.com**
 
